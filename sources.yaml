@@ -1,0 +1,12 @@
+sources:
+  - name: "US Embassy Mexico - Funding"
+    url: "https://mx.usembassy.gov/funding-opportunities/"
+    kind: "page"
+    country_hint: "MX"
+    language_hint: "en"
+
+  - name: "Impact Hub Mexico City - site"
+    url: "https://mexicocity.impacthub.net/"
+    kind: "page"
+    country_hint: "MX"
+    language_hint: "es"
